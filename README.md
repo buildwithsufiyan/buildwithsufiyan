@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Md Sufiyan Hussain
 
-<!--
-**buildwithsufiyan/buildwithsufiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Django Developer | Google Cloud & Microsoft Certified
 
-Here are some ideas to get you started:
+I am passionate about building secure, scalable, and modern web applications using Django and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Expertise:
+
+* Django & Python
+* Backend Development
+* REST APIs
+* AI-Powered Applications
+* Cloud Technologies
+* eCommerce Development
+* CMS Development
+
+🎯 Currently Working On:
+
+* OwnCart E-Commerce Platform
+* Advanced Django CMS Systems
+* AI-Powered Business Solutions
+
+📍 Brahmapur, Odisha, India
+
+### Connect With Me
+
+* LinkedIn: linkedin.com/in/md-sufiyan-hussain-07a8b03b5
+* GitHub: github.com/buildwithsufiyan
+
+"Turning ideas into powerful digital solutions."
