@@ -1,30 +1,45 @@
 # Hi 👋, I'm Md Sufiyan Hussain
 
-### Full-Stack Django Developer | Google Cloud & Microsoft Certified
+## Full-Stack Django Developer | Google Cloud & Microsoft Certified | AI Enthusiast
 
-I am passionate about building secure, scalable, and modern web applications using Django and Python.
+I specialize in building secure, scalable, and modern web applications using Django and Python.
 
-🚀 Expertise:
+### 🚀 Currently Building
 
-* Django & Python
+* OwnBasket – Advanced Django E-Commerce Platform
+* Dynamic CMS & Admin Dashboard
+* AI-Powered Business Solutions
+* Cloud-Based Web Applications
+
+### 💻 Tech Stack
+
+* Python
+* Django
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* MySQL
+* Git & GitHub
+
+### 🎯 Expertise
+
 * Backend Development
-* REST APIs
-* AI-Powered Applications
-* Cloud Technologies
+* REST API Development
+* Database Design
 * eCommerce Development
 * CMS Development
+* Cloud Technologies
+* AI Integration
 
-🎯 Currently Working On:
+### 📍 Location
 
-* OwnCart E-Commerce Platform
-* Advanced Django CMS Systems
-* AI-Powered Business Solutions
+Brahmapur, Odisha, India
 
-📍 Brahmapur, Odisha, India
-
-### Connect With Me
+### 📫 Connect With Me
 
 * LinkedIn: linkedin.com/in/md-sufiyan-hussain-07a8b03b5
 * GitHub: github.com/buildwithsufiyan
+* Email: [hussainsufiyan565@gmail.com](mailto:hussainsufiyan565@gmail.com)
 
-"Turning ideas into powerful digital solutions."
+⭐ Turning ideas into powerful digital solutions.
