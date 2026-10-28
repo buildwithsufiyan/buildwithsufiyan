@@ -138,10 +138,10 @@ My focus is on understanding real problems and developing software that provides
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** (https://md-sufiyan-hussain.onrender.com/)
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/md-sufiyan-hussain-07a8b03b5/)
-- 🧑‍💻 **GitHub:** (https://github.com/buildwithsufiyan)
-- 📧 **Email:** (mailto:hussainsufiyan565@gmail.com)
+- 🌐 **Portfolio:** [md-sufiyan-hussain.onrender.com](https://md-sufiyan-hussain.onrender.com/)
+- 💼 **LinkedIn:** [Md Sufiyan Hussain](https://www.linkedin.com/in/md-sufiyan-hussain-07a8b03b5/)
+- 🧑‍💻 **GitHub:** [@buildwithsufiyan](https://github.com/buildwithsufiyan)
+- 📧 **Email:** [hussainsufiyan565@gmail.com](mailto:hussainsufiyan565@gmail.com)
 
 ---
 
